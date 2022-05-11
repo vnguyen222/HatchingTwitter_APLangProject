@@ -23,6 +23,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BirdSearch.py" />
+    <Compile Include="projectfiles.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="rawfiles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="rawfiles\chaptersummaries.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

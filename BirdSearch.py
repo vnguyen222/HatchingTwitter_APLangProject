@@ -1,4 +1,6 @@
 ﻿''' HATCHING TWITTER AP LANGUAGE FINAL PROJECT '''
+''' BY: VINCENT NGUYEN '''
+import projectfiles
 
 import keyboard, time
 
@@ -84,5 +86,6 @@ if __name__ == "__main__":
         search_query = search_screen()
         print(search_query)
         result_screen(search_query)'''
-    search_query = search_screen()
-    result_screen(search_query)
+    '''search_query = search_screen()
+    result_screen(search_query)'''
+    projectfiles.open_files()

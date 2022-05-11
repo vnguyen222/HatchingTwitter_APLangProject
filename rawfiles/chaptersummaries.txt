@@ -1,11 +1,16 @@
 #START
+    The chapter takes place on October 4, 2010, 10:43 AM. It foreshadows the firing of Evan Williams (known as Ev) and introduces the situation that the end of the book will approach.
 
 #FOUNDERS
-
+    This section of chapters covers the origin story of each of the founders of Twitter.
   @Ev
+    Evan (Ev) was born in Nebraska and moved to California's up and starting Silicon Valley. He taught himself how to program and went off to create Blogger which would become successful in the coming years.
   @Noah
+    Noah Glass is a friend Ev meets in Silicon Valley. He comes up with the idea to work on a new podcasting software called Odeo. There is news that Blogger was bought by Google so Ev was being paid for the Google acquisition. Noah needed funding for Odeo and turned to Ev for investment into his idea. Noah based his operations from his apartment that rapidly deteriorated. Ev really wanted Odeo and Noah to succeed to prevent his repuation in Silicon Valley from becoming a "one-hit wonder."
   @Jack
+    Jack Dorsey was a very technologically gifted person but struggled to find employment in Silicon Valley. He is also a self-taught programmer who tinkered a lot with technology as a child. Jack found  He found a job offer by Ev and Noah for Odeo.
   @Biz
+    Biz Stone was a Google engineer that quit, opting to join Ev with his journey at Google and, later, Twitter
 
 #NOAH
 
