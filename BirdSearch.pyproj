@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BirdSearch.py" />
+    <Compile Include="searchhandling.py" />
     <Compile Include="projectfiles.py" />
   </ItemGroup>
   <ItemGroup>
