@@ -1,6 +1,6 @@
 ﻿''' HATCHING TWITTER AP LANGUAGE FINAL PROJECT '''
 ''' BY: VINCENT NGUYEN '''
-import projectfiles
+import projectfiles, searchhandling
 
 import time
 
@@ -12,10 +12,8 @@ def CLEAR_TERMINAL():
     else:
         os.system("clear")
 # Window Sizing Handling
-'''def window_size():
+def window_size():
     size = os.get_terminal_size()
-    
-    while True'''
 
 # Print Effect Function
 def print_effect(str, delay):
@@ -60,6 +58,7 @@ def search_screen():
     while True:
         # Get user search input
         search_query_preparsed = input("\nSearch: ")
+        search_query_preparsed = search_query_preparsed.lower()
         query_valid = True
 
         # Search Checking
@@ -80,21 +79,20 @@ def search_screen():
         else:
             print ("Enter a valid search")
 
-def result_screen(user_search):
+def result_screen(user_search, requested_file):
     CLEAR_TERMINAL()
     print("Showing results for:", user_search)
-    for x in range(0, 20):
-        print("-", end="")
+    
+    
 
 
 # EXECUTE MAIN
 if __name__ == "__main__":
     loading_screen()
     
+    '''
     while True:
         search_query = search_screen()
-        print(search_query)
-        result_screen(search_query)
-    '''search_query = search_screen()
-    result_screen(search_query)'''
+        result_file = searchhandling.parse_query(search_query)
+        result_screen(search_query, result_file)'''
     
