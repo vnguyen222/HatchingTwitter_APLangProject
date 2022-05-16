@@ -112,7 +112,8 @@ if __name__ == "__main__":
         try:
             result_file = backend.parse_query(search_query)
         except Exception as e:
-            print(e)
+            print("No results found")
+            time.sleep(1.5)
         else:
             backend.print_result(search_query, result_file, window_size())
     

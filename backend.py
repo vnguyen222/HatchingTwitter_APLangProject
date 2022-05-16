@@ -9,8 +9,28 @@ def CLEAR_TERMINAL():
         os.system("clear")
 
 
-FILE_LOCATIONS = ("rawfiles/chaptersummaries.txt", "rawfiles/timeline.txt", "rawfiles/summary.txt", "rawfiles/reflection.txt")
+FILE_LOCATIONS = ("rawfiles/chaptersummaries.txt", "rawfiles/timeline.txt", "rawfiles/summary.txt", "rawfiles/reflection.txt", "rawfiles/aboutodeo.txt", "rawfiles/abouttwitter.txt", "rawfiles/ceos.txt")
 FILES = []
+
+def result_file(search):
+    if "chapter" in search and "summary" in search:
+        return FILE_LOCATIONS[0]
+    elif "summary" in search:
+        return FILE_LOCATIONS[2]
+    elif "what" in search and "odeo" in search:
+        return FILE_LOCATIONS[4]
+    elif "timeline" in search:
+        return FILE_LOCATIONS[1]
+    elif "reflection" in search:
+        return FILE_LOCATIONS[3]
+    elif "what" in search and "is" in search and "twitter" in search:
+        return FILE_LOCATIONS[5]
+    elif "ceo" in search:
+        return FILE_LOCATIONS[6]
+    else:
+        raise Exception("No results found")
+
+
 
 def open_files():
     for i in range(0, len(FILE_LOCATIONS)):
@@ -25,7 +45,7 @@ def open_files():
 def print_result(search, filename, screen_dimensions):
     index = FILE_LOCATIONS.index(filename)
     file = FILES[index].readlines()
-    start, end = 0, screen_dimensions[1]-15
+    start, end = 0, screen_dimensions[1]-14
     while True:
         CLEAR_TERMINAL()
         print("Showing results for:", search)
@@ -33,7 +53,7 @@ def print_result(search, filename, screen_dimensions):
             print("-", end="")
         print()
         
-        if len(file) < screen_dimensions[1]-15:
+        if len(file) < screen_dimensions[1]-14:
             for x in file[start:]:
                 print(x, end="")
         else:
@@ -64,17 +84,6 @@ def print_result(search, filename, screen_dimensions):
 
 
 # Search Query Handling
-
-def result_file(search):
-    if "chapter" in search and "summary" in search:
-        return FILE_LOCATIONS[0]
-    elif "summary" in search:
-        return FILE_LOCATIONS[2]
-    elif "timeline" in search:
-        return FILE_LOCATIONS[1]
-    else:
-        raise Exception("Invalid Search Query")
-
 
 COMMON_QUESTION_WORDS = ("what", "where", "who", "why")
 
