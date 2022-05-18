@@ -1,10 +1,11 @@
+
 Hatching Twitter is a non-fiction novel about the creation of Twitter and the origins of each of the 4 notable figures involved. The story is divided up into several sections that separate the key aspects of the creation and evolution of the social platform. Evan Williams (referred to as Ev) is from Nebraska and moved to Silicon Valley during the dot com bubble era. Noah Glass first moves to Silicon Valley and meets Ev and they become friends with him funding Noah's venture in creating Odeo. Jack Dorsey is an avid programmer who is hired to work on Odeo and later becomes a big figure of Twitter. Biz Stone is a former Google engineer who quits to help Ev and his adventure in creating a new startup.
 
 It started with the creation of Blogger by Evan who goes on to become a big name in Silicon Valley as the trend of blogging blew up as a result of his platform. Google saw the potential in the platform and purchased it. Evan shortly leaves after the purchase and decides to become involved in startups once again.
 
 He meets Noah who proposes the idea of a podcasting platform, Odeo. Working out of Noah's apartment, Noah and Ev recruit the help of Jack and Biz to work on Odeo. After Apple announces iTunes's support for podcasting with the iPod, Odeo's future was killed.
 
-With Odeo hopeless, a hackathon (a small event within a company to come up and implement new ideas to benefit the company) was held between the group of workers that helped with Odeo. Jack Dorsey comes out with a social media platform focusing on a status update model.
+With Odeo hopeless, Jack Dorsey was on the verge of quitting. This was until Ev decided on holding a hackathon (a small event within a company to come up with new ideas that benefit the company) to brainstorm new ideas to replace Odeo. Jack Dorsey comes out with a social media platform focusing on a status update model.
 
 Noah decides to lead the Twitter project but Jack Dorsey was making more of the important decisions. Noah came up with the name "Twittr" initially by looking in the dictionary and flipping to random pages for a good word. However, power and relationship struggles between Noah and both Ev and Jack see him fired from the establishment.
 

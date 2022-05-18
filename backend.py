@@ -1,6 +1,6 @@
 ﻿# Project Files Handling
 
-import keyboard, time, os
+import keyboard, time, os, sys
 
 def CLEAR_TERMINAL():
     if os.name == 'nt':
@@ -9,7 +9,7 @@ def CLEAR_TERMINAL():
         os.system("clear")
 
 
-FILE_LOCATIONS = ("rawfiles/chaptersummaries.txt", "rawfiles/timeline.txt", "rawfiles/summary.txt", "rawfiles/reflection.txt", "rawfiles/aboutodeo.txt", "rawfiles/abouttwitter.txt", "rawfiles/ceos.txt")
+FILE_LOCATIONS = ("rawfiles/chaptersummaries.txt", "rawfiles/timeline.txt", "rawfiles/summary.txt", "rawfiles/reflection.txt", "rawfiles/whatodeo.txt", "rawfiles/whattwitter.txt", "rawfiles/ceos.txt", "rawfiles/analysis.txt", "rawfiles/iraq.txt", "rawfiles/founded.txt", "rawfiles/informationproj.txt", "rawfiles/firsttweet.txt", "rawfiles/offered.txt", "rawfiles/outted.txt", "rawfiles/celebrities.txt")
 FILES = []
 
 def result_file(search):
@@ -21,21 +21,36 @@ def result_file(search):
         return FILE_LOCATIONS[4]
     elif "timeline" in search:
         return FILE_LOCATIONS[1]
-    elif "reflection" in search:
+    elif "reflection" in search and "vincent's":
         return FILE_LOCATIONS[3]
-    elif "what" in search and "is" in search and "twitter" in search:
+    elif "iraq" in search:
+        return FILE_LOCATIONS[8]
+    elif "what" in search and "twitter" in search:
         return FILE_LOCATIONS[5]
-    elif "ceo" in search:
+    elif "kicked" in search:
+        return FILE_LOCATIONS[13]
+    elif "ceo" in search or "ceos" in search:
         return FILE_LOCATIONS[6]
+    elif "analysis" in search:
+        return FILE_LOCATIONS[7]
+    elif "founded" in search:
+        return FILE_LOCATIONS[9]
+    elif "information" in search and "project" in search:
+        return FILE_LOCATIONS[10]
+    elif "first" in search and "tweet" in search:
+        return FILE_LOCATIONS[11]
+    elif "purchase" in search:
+        return FILE_LOCATIONS[12]
+    elif "celebrities" in search:
+        return FILE_LOCATIONS[14]
     else:
         raise Exception("No results found")
-
 
 
 def open_files():
     for i in range(0, len(FILE_LOCATIONS)):
         try:
-            FILES.append(open(FILE_LOCATIONS[i]))
+            FILES.append(open(FILE_LOCATIONS[i]).readlines())
         except Exception as e:
             print("File", FILE_LOCATIONS[i], "Import ERROR")
             print(e)
@@ -44,11 +59,14 @@ def open_files():
 
 def print_result(search, filename, screen_dimensions):
     index = FILE_LOCATIONS.index(filename)
-    file = FILES[index].readlines()
+    file = FILES[index]
     start, end = 0, screen_dimensions[1]-14
     while True:
         CLEAR_TERMINAL()
-        print("Showing results for:", search)
+        print("Showing results for: ", end="")
+        for word in search:
+            print(word, end=" ")
+        print()
         for x in range(0, screen_dimensions[0]):
             print("-", end="")
         print()
@@ -66,8 +84,10 @@ def print_result(search, filename, screen_dimensions):
             print("-", end="")
         print("")
 
+        # Keybinds for actions
         while True:
             if keyboard.is_pressed('q'):
+                sys.stdin.flush()
                 return
             if keyboard.is_pressed("up arrow"):
                 if start > 0:
@@ -81,28 +101,3 @@ def print_result(search, filename, screen_dimensions):
                     end += 1
                     time.sleep(0.01)
                     break
-
-
-# Search Query Handling
-
-COMMON_QUESTION_WORDS = ("what", "where", "who", "why")
-
-def mispelled_similar(base_word, user_word):
-    if abs(len(user_word) - len(base_word)) < 2:
-        return False
-
-
-
-
-def parse_query(user_search):
-    search = None
-    if user_search[0] == "#":
-        search = [user_search[1:]]
-    else:
-        search = user_search.split()
-
-    return result_file(search)
-
-    '''
-    for q_word in COMMON_QUESTION_WORDS:
-        if search[0] == q_word or :'''

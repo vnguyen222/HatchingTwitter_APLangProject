@@ -1,3 +1,4 @@
+
 #START
     The chapter takes place on October 4, 2010, 10:43 AM. It foreshadows the firing of Evan Williams (known as Ev) and introduces the situation that the end of the book will approach.
 
@@ -13,18 +14,28 @@
     Biz Stone was a Google engineer that quit, opting to join Ev with his journey at Odeo and, later, Twitter
 
 #NOAH
-
+  This section covers the end of Odeo and birth of Twitter with Noah at helm for a short period.
   Troubled Waters
+    On an outing between all the people who have been working on Odeo, the chapter covers the personalities of each of the four notable figures in a conversation about what each person's interest is.
   Status
+    Jack, not seeing success in Odeo, asks Noah and Ev whether he could leave. However, Ev decides to hold a company hackathon to brainstorm new ideas to progress the company in a different direction.
+  Twitter
+    Ev did not want Noah interfering in Jack's new venture into Twitter. This did not work and Noah searched around a dictionary on a name for the new-born application. Settling on Twitter. There was a trend, though, at the time that made names look cool if vowels were removed. Therefore, "Twttr" was used.
   Just Setting Up My Twttr
+    Jack Dorsey makes the first tweet saying "just setting up my twttr."
   The Cowboy at the Rodeo
+    Noah, at a party, leaks the concept of Twitter to another party-goer and invites him to Twitter. This turns to his coworkers becoming unhappy with him due to his outbursts.
   The Green Benches
+    As Jack, Ev, and some of the people working on Twitter grew weary of Noah's attitude toward others, Ev pulls Noah aside at a park to break the news to him that Noah was fired from Twitter. This did not go well as angry Noah sent impulsive emails to everyone working but he eventually left. 
 
 #JACK
 
   A Bloody Mess
+    Being recommended to attend the Love Parade and advertise Twitter, Jack finds himself in a drunken predicament once he puts his hand around a girl after she does and both of them fell and he hit his head on the concrete. He later left the hospital all okay.
   Chaos Again
+    With some new traffic coming in as a result of the Love Parade campaign, Twitter's infrastructure issues started to show and people were not happy in the company.
   And the Winner Is...
+    At South by Southwest, an award event focused on the best start-ups, Twitter takes the award for the best start-up of the year. Noah, at the event, sees the success of Twitter without him and the grief of exclusion kicks in.
 
 #EV
 

@@ -1,0 +1,4 @@
+
+AP Lang Final Book Project for Mrs. Gurzick
+
+This program is similar to a search engine like Google. The twist is that it is centered around information about Twitter from the book. All the information presented is from the book and all code and information are collected and written by Vincent Nguyen.

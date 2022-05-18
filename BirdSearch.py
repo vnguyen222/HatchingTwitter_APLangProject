@@ -81,9 +81,6 @@ def search_screen():
         query_valid = True
 
         # Search Checking
-        if search_query_preparsed[0] == "#":  # Short search
-            return search_query_preparsed.strip()
-
         for x in search_query_preparsed:    # Checking if any digits or illegal symbols in the string
             if x.isdigit():
                 query_valid = False
@@ -93,8 +90,12 @@ def search_screen():
                     query_valid = False
                     break
 
+        # Question Mark Handling
+        if "?" in search_query_preparsed:
+            search_query_preparsed = search_query_preparsed.replace("?", "")
+
         if query_valid:
-            return search_query_preparsed
+            return search_query_preparsed.split()
         else:
             print ("Enter a valid search")
 
@@ -110,10 +111,10 @@ if __name__ == "__main__":
         search_query = search_screen()
         result_file = None
         try:
-            result_file = backend.parse_query(search_query)
+            result_file = backend.result_file(search_query)
         except Exception as e:
             print("No results found")
-            time.sleep(1.5)
+            time.sleep(1.8)
         else:
             backend.print_result(search_query, result_file, window_size())
     
