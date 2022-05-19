@@ -1,1 +1,0 @@
-.\python3.10.4\python.exe .\BirdSearch.py
