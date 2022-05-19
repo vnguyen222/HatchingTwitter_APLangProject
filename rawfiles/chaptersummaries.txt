@@ -1,26 +1,26 @@
 
 #START
-    The chapter takes place on October 4, 2010, 10:43 AM. It foreshadows the firing of Evan Williams (known as Ev) and introduces the situation that the end of the book will approach.
+    The chapter takes place on October 4, 2010, at 10:43 AM. It foreshadows the firing of Evan Williams (known as Ev) and introduces the situation that the end of the book will approach.
 
 #FOUNDERS
     This section of chapters covers the origin story of each of the founders of Twitter.
   @Ev
     Evan (Ev) was born in Nebraska and moved to California's up and starting Silicon Valley. He taught himself how to program and went off to create Blogger which would become successful in the coming years.
   @Noah
-    Noah Glass is a friend Ev meets in Silicon Valley. He comes up with the idea to work on a new podcasting software called Odeo. There is news that Blogger was bought by Google so Ev was being paid for the Google acquisition. Noah needed funding for Odeo and turned to Ev for investment into his idea. Noah based his operations from his apartment that rapidly deteriorated. Ev really wanted Odeo and Noah to succeed to prevent his repuation in Silicon Valley from becoming a "one-hit wonder."
+    Noah Glass is a friend Ev meets in Silicon Valley. He comes up with the idea to work on a new podcasting software called Odeo. There is news that Blogger was bought by Google so Ev was being paid for the Google acquisition. Noah needed funding for Odeo and turned to Ev for investment in his idea. Noah based his operations in his apartment that rapidly deteriorated. Ev wanted Odeo and Noah to succeed to prevent his reputation in Silicon Valley from becoming a "one-hit wonder."
   @Jack
     Jack Dorsey was a very technologically gifted person but struggled to find employment in Silicon Valley. He is also a self-taught programmer who tinkered a lot with technology as a child. Jack found  He found a job offer by Ev and Noah for Odeo.
   @Biz
     Biz Stone was a Google engineer that quit, opting to join Ev with his journey at Odeo and, later, Twitter
 
 #NOAH
-  This section covers the end of Odeo and birth of Twitter with Noah at helm for a short period.
+  This section covers the end of Odeo and the birth of Twitter with Noah at the helm for a short period.
   Troubled Waters
     On an outing between all the people who have been working on Odeo, the chapter covers the personalities of each of the four notable figures in a conversation about what each person's interest is.
   Status
     Jack, not seeing success in Odeo, asks Noah and Ev whether he could leave. However, Ev decides to hold a company hackathon to brainstorm new ideas to progress the company in a different direction.
   Twitter
-    Ev did not want Noah interfering in Jack's new venture into Twitter. This did not work and Noah searched around a dictionary on a name for the new-born application. Settling on Twitter. There was a trend, though, at the time that made names look cool if vowels were removed. Therefore, "Twttr" was used.
+    Ev did not want Noah interfering in Jack's new venture into Twitter. This did not work and Noah searched around a dictionary for a name for the newborn application. Settling on Twitter. There was a trend, though, at the time that made names look cool if vowels were removed. Therefore, "Twttr" was used.
   Just Setting Up My Twttr
     Jack Dorsey makes the first tweet saying "just setting up my twttr."
   The Cowboy at the Rodeo
@@ -33,30 +33,36 @@
   A Bloody Mess
     Being recommended to attend the Love Parade and advertise Twitter, Jack finds himself in a drunken predicament once he puts his hand around a girl after she does and both of them fell and he hit his head on the concrete. He later left the hospital all okay.
   Chaos Again
-    With some new traffic coming in as a result of the Love Parade campaign, Twitter's infrastructure issues started to show and people were not happy in the company.
+    With some new traffic coming in as a result of the Love Parade campaign, Twitter's infrastructure issues started to show and people were not happy with the company.
   And the Winner Is...
-    At South by Southwest, an award event focused on the best start-ups, Twitter takes the award for the best start-up of the year. Noah, at the event, sees the success of Twitter without him and the grief of exclusion kicks in.
+    At South by Southwest, an award event focused on the best start-ups, Twitter takes the award for the best start-up of the year. Noah, at the event, sees the success of Twitter without him, and the grief of exclusion kicks in.
   The First CEO
     As Twitter began to become a serious thing, there needed to be leadership, so Ev gave Jack the power of CEO as Ev liked Jack's leadership in the project
   The Hundred-Million-Dollar Offer
     Ev, Jack, and Biz visit Yahoo for a meeting where Yahoo offers to buy Twitter for 12 million. The three were anticipating a price of 85 million+
   Is Twitter Down?
-    Twitter's newfound growth leads to newfound server issues. Jack Dorsey finds himself in a tough situation where Twitter's servers are struggling while he is neglecting the idea of improving it and instead going for adding more and more features to the site.
+    Twitter's newfound growth leads to newfound server issues. Jack Dorsey finds himself in a tough situation where Twitter's servers are struggling while he is neglecting the idea of improving it he opts for adding more and more features to the site.
   The Dressmaker
-    Jack
+    Jack's job performance does not meet the satisfaction of Ev and the other employees. There were small arguments between Jack and other coworkers.
   Rumors
+    Money was an issue to the team working on Twitter but not to investors. Twitter surpasses 1 million registered users with celebrities joining in. Jack and Ev's relationship slowly degrades.
   F**k F**k F**k...
+    Rumors on the board were that Jack was going to be kicked off the Twitter team and take on a "passive" chairman role.
   Building Sand Castles Underwater
+    The rumors of being kicked out of Twitter reach Jack. He sends a very redundant, explicit email to Bijan, a board member.
   Calling My Parents
+    Jack comes in one morning and gets to work like usual. Later that night, he gets invited to a meeting at a hotel with Ev and Biz where the news is broken to him that he was fired from the Twitter team and is now a silent chairman on the board.
 
 #EV
 
   The Third Twitter Leader
+    Over the past months, Mark Zuckerburg was trying to build a strong relationship with Jack to eventually be able to purchase Twitter. However, once Jack was fired, Zuckerburg was left helpless with the acquisition of Twitter.
   Fight or Flight
+    The chapter flashes back to how Ev treated Noah on his departure from the Twitter team and compares it with Jack's treatment. It also mentions the pain Jack starts to feel about Twitter, especially in news articles and discussions.
   The Marathon Man
     Jack goes off and works on his new project, Square, a payment company. He used his Twitter platform to help him but Ev and Biz cut him off.
   Dinner with Al
-    Ev and Biz were invited to a meeting with Al Gore at his mansion. This meeting derived into Al Gore offering to buy Twitter but everyone got drunk and partied.
+    Ev and Biz were invited to a meeting with Al Gore at his mansion. This meeting derived to Al Gore offering to buy Twitter but everyone got drunk and partied.
   Oprah
     Ev goes on The Oprah Winfrey Show to help explain what Twitter is and help Oprah to send her first tweet. 
   Spiraling into Iraq
@@ -68,27 +74,27 @@
   The Accidental Billionaire
     Ev, Goldman, and Amac attend a meeting arranged by Mark Zuckerburg at his house. As Zuckerburg has been trying to please Twitter's Jack Dorsey for the past years, he offers to partner and eventually buy Twitter. However, at the end of the day, the answer to being bought out was no at the time.  
   The Coach and the Comedian
-    Twitter's exponential growth is creating some concern for Ev's workload as CEO. There is reflection on Ev's past and his unsuccessful venture with his own company, Plexus, in Nebraska. He is then recommended by Fenton, a board member, to pair with CEO mentor, Bill Campbell, to help give advice to Ev. Ev is suggested by Campbell that he should hire friends and Ev follows through on this. However, he finds that the hiring of one of his friends, Dick Costolo, as a chief operating officer is a bold move given his controversial personality
+    Twitter's exponential growth is creating some concern for Ev's workload as CEO. There is a reflection on Ev's past and his unsuccessful venture with his own company, Plexus, in Nebraska. He is then recommended by Fenton, a board member, to pair with CEO mentor, Bill Campbell, to help advise Ev. Ev is suggested by Campbell that he should hire friends and Ev follows through on this. However, he finds that the hiring of one of his friends, Dick Costolo, as a chief operating officer is a bold move given his controversial personality
   Jack's Gone Rogue
-    While everyone is hard at work a Twitter, Jack Dorsey, who is out of the company, is getting all the attention of the media about Twitter. He is touted as the only founder of Twitter and the genius behind the whole social media platform. Twitter's upper-level leaders (i.e. Ev, Dick), did not take too kindly of this and neither did the board. Alongside that, Dorsey was working on his company, Square, from his Twitter email which prompted Twitter to disable his emails, leading to him and Fenton to riot
+    While everyone is hard at work a Twitter, Jack Dorsey, who is out of the company, is getting all the attention of the media about Twitter. He is touted as the only founder of Twitter and the genius behind the whole social media platform. Twitter's upper-level leaders (i.e. Ev, Dick), did not take too kindly to this and neither did the board. Alongside that, Dorsey was working on his company, Square, from his Twitter email which prompted Twitter to disable his emails, leading him and Fenton to riot
   Steve Jobs 2.0
     Jack Dorsey looked up to Steve Jobs and his growing lifestyle modeled after Gandhi. They became good friends and bonded with Jack Dorsey seen as the next Steve Jobs with his presence in the spotlight as Twitter's "notable" founder.
   Russian-Roulette Relations
-    Russian President Dmitry Medvedev visits the Twitter headquarters to send his first tweet and promote diplomacy with America. Once he arrives, the building is on lockdown for security reasons. However, the Twitter servers go down right when he was visiting. Luckily, by a slim margin, the servers came back up seconds before President Medvedev first tweet.
+    Russian President Dmitry Medvedev visits the Twitter headquarters to send his first tweet and promote diplomacy with America. Once he arrives, the building is on lockdown for security reasons. However, the Twitter servers go down right when he was visiting. Luckily, by a slim margin, the servers came back up seconds before President Medvedev's first tweet.
   Secret Meetings
-    Employees were slowly getting irratated by the lack of progress and Ev's leadership of Twitter. They secretly met with Jack Dorsey to gain advice or direction in which Dorsey pointed them to complain to the higher-level employees who agreed with the perspective.
+    Employees were slowly getting irritated by the lack of progress and Ev's leadership of Twitter. They secretly met with Jack Dorsey to gain advice or direction in which Dorsey pointed them to complain to the higher-level employees who agreed with the perspective.
   The Clown Car in the Gold Mine
-    Campbell breaks the news to Ev that he is fired from CEO of Twitter and that Dick would be the temporary CEO while Jack transitions into being a CEO once again. Turmoil sets in Ev as him and Goldman try all they can to fight for Ev to stay as CEO. However, it fails in the end when the plans are made to announce to the Twitter employees that Ev is stepping down as CEO. Jack calls Biz, who is in a business trip in Japan, to come back for the announcement
+    Campbell breaks the news to Ev that he is fired from the CEO of Twitter and that Dick would be the temporary CEO while Jack transitions into being a CEO once again. Turmoil sets in Ev as he and Goldman try all they can to fight for Ev to stay as CEO. However, it fails in the end when the plans are made to announce to the Twitter employees that Ev is stepping down as CEO. Jack calls Biz, who is on a business trip in Japan, to come back for the announcement
   A Sunday Storm
     The day of the announcement of Ev's departure came. The people that sided with Ev were not happy while the majority of the employees did not know what was happening.
 
 #DICK
 
   No Adult Supervision
-    With Dick as interim CEO, a impromptu visit from Snoop Dogg creates chaos in the Twitter office. Leading to a mini-concert in the cafeteria and employees smoking weed
+    With Dick as interim CEO, an impromptu visit from Snoop Dogg creates chaos in the Twitter office. Snoop led a mini-concert in the cafeteria with employees smoking weed
   Jack's Back!
-    Jack Dorsey returns to the Twitter and there is much growth seen. Jack is in the spotlight and is still seen as the genius behind Twitter. He begins to explode in fame and meets multitudes of celebrities and attends parties
+    Jack Dorsey returns to Twitter and there is much growth seen. Jack is in the spotlight and is still seen as the genius behind Twitter. He begins to explode in fame and meets multitudes of celebrities and attends parties
   Make Better Mistakes Tomorrow
     Moving into a new office and the boom of employees, Dick becomes a successful CEO and takes the company public with a high valuation. Jack Dorsey represents Twitter well and it sets up a happier end to the story
   What's Happening?
-    The chapter reflects upon the future of the notable figures who were outed from the company. Noah has a child with his wife and reflects upon the pain he felt of being pushed out and forgotten from Twitter. Ev goes to start his own company called the Obvious Company and develops a stronger work ethic than he had at Twitter. Biz joins Ev for this venture like he did with Twitter.
+    The chapter reflects upon the future of the notable figures who were outed from the company. Noah has a child with his wife and reflects upon the pain he felt of being pushed out and forgotten from Twitter's history. Ev goes on to start his own company called the Obvious Company and develops a stronger work ethic than he had at Twitter. Biz joins Ev for this venture as he did with Twitter.
